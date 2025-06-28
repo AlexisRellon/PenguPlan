@@ -4,7 +4,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
     '@nuxtjs/color-mode',
-    '@nuxtjs/supabase',
     '@nuxt/fonts',
     '@pinia/nuxt'
   ]
